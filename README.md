@@ -1,6 +1,6 @@
-### Full-Stack Developer 🚀
+### Full-Stack Developer 
 
-- 🔭 I’m currently working on [forum](https://github.com/wkw8402/forum)  
+- 🚀 I’m currently working on [forum](https://github.com/wkw8402/forum)  
   
 
 - 🌱 I’m currently learning Next.js and Typescript  
