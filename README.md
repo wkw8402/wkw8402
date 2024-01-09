@@ -3,7 +3,7 @@
 - 🚀 I’m currently working on [Crawler](https://github.com/wkw8402/crawler)  
   
 
-- 🌱 I’m currently learning Next.js and Typescript  
+- 🌱 I’m currently learning Vue.js and Typescript  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
