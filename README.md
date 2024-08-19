@@ -62,7 +62,7 @@ Computer Science, Bachelor of Arts ```(08/2021 ~ 12/2024)``` (University of Cali
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wkw8402&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
-<img src="https://github.com/wkw8402/wkw8402/blob/output/github-snake-dark.svg"" width="100%">
+<img src="https://github.com/wkw8402/wkw8402/blob/output/github-snake-dark.svg" width="100%">
 
 <br><br>
 <!-- Hit counter -->
