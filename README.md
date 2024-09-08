@@ -63,9 +63,9 @@ Computer Science, Bachelor of Arts ```(08/2021 ~ 12/2024)``` (University of Cali
 <br><br>
 <div align="center">
 <!-- My profile -->
-<img src="https://my-repo-k1vtbiodq-wkw8402s-projects.vercel.app/api/top-langs/?username=wkw8402&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&exclude_repo=skyportal_wkw8402,Crawler,CAMI_Health_WIP" width=38% />
-<img src="https://my-repo-k1vtbiodq-wkw8402s-projects.vercel.app/api?username=wkw8402&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56% />
-<img src="https://my-repo-k1vtbiodq-wkw8402s-projects.vercel.app/graph?username=wkw8402&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<img src="https://github-readme-stats-q797xvybl-wkw8402s-projects.vercel.app/api/top-langs/?username=wkw8402&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&exclude_repo=skyportal_wkw8402,Crawler,CAMI_Health_WIP" width=38% />
+<img src="https://github-readme-stats-q797xvybl-wkw8402s-projects.vercel.app/api?username=wkw8402&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wkw8402&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
 <img src="https://github.com/wkw8402/wkw8402/blob/output/github-snake-dark.svg" width="100%">
