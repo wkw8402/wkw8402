@@ -12,7 +12,7 @@
 <div align="left">  
 
 ## OBJECTIVE
-Web Development   
+User-friendly Web Development   
 
 ## EDUCATION
 Computer Science, Bachelor of Arts ```(08/2021 ~ 12/2024)``` (University of California, Berkeley)   
