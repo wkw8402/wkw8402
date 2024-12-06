@@ -12,10 +12,10 @@
 <div align="left">  
 
 ## OBJECTIVE
-User-friendly Web Development   
+Software Engineering   
 
 ## EDUCATION
-Computer Science, Bachelor of Arts ```(08/2021 ~ 12/2024)``` (University of California, Berkeley)   
+Computer Science, Bachelor of Arts ```(09/2021 ~ 12/2024)``` (University of California, Berkeley)   
 
 ## ADDITIONAL SKILLS
 <span>
