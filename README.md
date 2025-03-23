@@ -22,9 +22,6 @@ Computer Science, Bachelor of Arts ```(09/2021 ~ 12/2024)``` (University of Cali
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
-</span>
-<span>
     <img src="https://img.shields.io/badge/ JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=white"/>
 </span>
 <span>
@@ -44,6 +41,9 @@ Computer Science, Bachelor of Arts ```(09/2021 ~ 12/2024)``` (University of Cali
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ C++-blue?style=plastic&logo=cplusplus&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Ruby-CC342D?style=plastic&logo=Ruby&logoColor=white"/>
