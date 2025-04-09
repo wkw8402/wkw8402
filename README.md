@@ -57,7 +57,6 @@ Computer Science, Bachelor of Arts ```(09/2021 ~ 12/2024)``` (University of Cali
 ```July 2024```  
 
 </div>
-</div>
 
 </details>
 <br><br>
