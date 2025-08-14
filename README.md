@@ -53,8 +53,11 @@ Computer Science, Bachelor of Arts ```(09/2021 ~ 12/2024)``` (University of Cali
 </span>
 
 ## Certificates 
+**["Google Cloud Computing Foundations Certificate", Google Cloud](https://www.credly.com/badges/1de3c46f-3307-4051-bac7-a7b589deedf9/public_url)**  
+```May 2025```  
+
 **["Deep Learning Specialization" DeepLearning.AI, Coursera](https://www.coursera.org/account/accomplishments/specialization/HNUNTPN6GSL9)**  
-```July 2024```  
+```July 2024```
 
 </div>
 
