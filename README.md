@@ -66,7 +66,7 @@ Computer Science, Bachelor of Arts ```(09/2021 ~ 12/2024)``` (University of Cali
 <div align="center">
 <!-- My profile -->
 <img src="https://github-readme-stats-beta-nine-37.vercel.app/api/top-langs/?username=wkw8402&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&count_private=true&title_color=58A6FF&exclude_repo=skyportal_wkw8402,Crawler,CAMI_Health_WIP,Deep-Learning-Specialization,DL_Compilation,Typing-Battle-Game,Translator-for-Scheme,LikeLion-UC-Berkeley"&width=30% />
-<img src="https://github-readme-stats-git-wkw8402-patch-1-wkw8402s-projects.vercel.app/api?username=wkw8402&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width="48%" />
+<img src="https://github-readme-stats-git-master-wkw8402s-projects.vercel.app/api?username=wkw8402&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wkw8402&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
