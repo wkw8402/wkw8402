@@ -34,6 +34,9 @@ Computer Science, Bachelor of Arts ```(09/2021 ~ 12/2024)``` (University of Cali
     <img src="https://img.shields.io/badge/ Next-000000?style=plastic&logo=Next.js&logoColor=white"/>
 </span>
 <span>
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white"/>
+</span>
+<span>
     <img src="https://img.shields.io/badge/ PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/>
 </span>
 <span>
